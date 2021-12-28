@@ -1,0 +1,7 @@
+db.sqlite3
+manage.py
+my_django_site/__pycache__
+.env
+.idea
+polls/__pycache__
+polls/migrations/__pycache__
